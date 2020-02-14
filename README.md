@@ -1,2 +1,2 @@
-# multiwool
-This is a WIP mod for the WIP multicolor mod.
+# colorapi_wool
+This is a WIP mod for the WIP colorapi mod.
