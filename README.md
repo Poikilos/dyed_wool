@@ -1,6 +1,8 @@
 # colorapi_wool
 This is a WIP mod for the WIP colorapi mod.
 
+https://github.com/poikilos/colorapi_wool
+
 
 ## Licenses
 
